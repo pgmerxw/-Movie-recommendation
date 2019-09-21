@@ -1,0 +1,98 @@
+#warp{
+	width: 1000px;
+	height: 800px;
+	margin: auto;
+}
+.lgout{
+	text-decoration: none;
+	color: gray;
+} 
+.lgout:hover{
+	color: red;
+}
+#ser{
+	height: 50px;
+}
+#list{
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+    border: 1px solid;
+}
+.movie{
+	margin-top:30px;
+	width: 200px;
+	height: 250px;
+	border: 1px solid;
+	float: left;
+	margin-left: 20px;
+	margin-right: 25px;
+}
+.pic img{
+	width: 200px;
+	height: 180px;
+	
+}
+.intd{
+	width:200px;
+	height:60px;
+	line-height:60px;
+	margin: auto; 
+}
+.mname{
+	width:200px;
+	height:30px;
+	font-size: 12px;
+	line-height: 30px;
+	margin-top: 10px;
+	text-align: center;
+}
+.mname a{
+	text-decoration: none;
+	color: blue;
+}
+.mname a:hover{
+	color: red;
+}
+.mrate{
+	width:200px;
+	height:20px;
+	font-size: 12px;
+	line-height: 20px;
+	text-align: center;
+}
+#pages{
+	width: 1000px;
+	height: 100px;
+}
+.xinxi{
+	width: 1000px;
+	height: 30px;
+	line-height: 30px;
+}
+.fenye{
+	width: 1000px;
+	height: 70px;
+}
+.fenye ul{
+	width: 800px;
+	height: 70px;
+	margin: auto;
+}
+.fenye ul li{
+	text-align:center;
+	width:50px;
+	height:30px;
+	border:1px solid;
+	float: left;
+	list-style: none;
+	line-height: 30px;
+	cursor: pointer;
+}
+.fenye ul li:hover{
+	background-color: gray;
+}
+.fenye ul a{
+	text-decoration: none;
+	color:black;
+}

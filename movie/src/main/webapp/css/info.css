@@ -1,0 +1,131 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#warp {
+	width: 1100px;
+	height: 650px;
+	margin: auto;
+	border: 1px solid;
+}
+
+.m_name {
+	width: 1100px;
+	height: 100px;
+	border-bottom: 1px solid;
+}
+
+#center {
+	width: 1100px;
+	height: 500px;
+	border-bottom: 1px solid;
+}
+
+.info {
+	width: 350px;
+	height: 400px;
+	float: left;
+	margin-left: 10px;
+}
+
+.jieshao {
+	width: 350px;
+	height: 200px;
+	float: left;
+	margin-left: 10px;
+}
+
+.box {
+	margin: 0px auto;
+	height: 50px;
+	width: 300px;
+}
+
+.box .comment {
+	font-size: 30px;
+	color: orange;
+}
+
+.comment li {
+	float: left;
+	cursor: pointer;
+}
+
+ul li {
+	list-style: none;
+}
+
+.pic {
+	width: 250px;
+	height: 400px;
+	margin-left: 10px;
+	float: left;
+}
+
+.pic img {
+	width: 250px;
+	height: 400px;
+}
+
+.rate {
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.infoname {
+	width: 50px;
+	float: left;
+}
+
+.infos {
+	width: 280px;
+	float: left;
+}
+
+.clear {
+	width: 1100px;
+	height: 20px;
+	margin: auto;
+	clear: both;
+}
+
+.rec {
+	width: 1100px;
+	height: 200px;
+	margin: auto;
+}
+
+.recms {
+	width: 100px;
+	height: 200px;
+	margin-left: 6px;
+	margin-right: 4px;
+	float: left;
+}
+
+.recms img {
+	width: 100px;
+	height: 155px;
+}
+
+.recname {
+	width: 100px;
+	height: 20px;
+	margin-top: 0px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 11px;
+}
+
+.recname a {
+	text-decoration: none;
+	color: blue;
+}
+
+.recname a:hover {
+	color: red;
+}
